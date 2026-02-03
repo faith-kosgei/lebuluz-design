@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Faith Kosgei
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=faithlebuluz.faithlebuluz)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=faith-kosgei)
 
 ## 👀 About Me
 I’m a **Software Engineer & DevOps Enthusiast** with a strong passion for building **scalable, reliable, and cloud-ready systems**.  
@@ -70,4 +70,5 @@ I’m especially interested in **DevOps, cloud computing, monitoring, and system
 
 ---
 
-
+## 📊 GitHub Stats
+![Faith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faith-kosgei&show_icons=true&theme=radical)
