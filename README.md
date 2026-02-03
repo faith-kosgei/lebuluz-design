@@ -69,5 +69,4 @@ I’m especially interested in **DevOps, cloud computing, monitoring, and system
 
 ---
 
-## 📊 GitHub Stats
-![Faith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faithlebuluz&show_icons=true&theme=radical)
+
